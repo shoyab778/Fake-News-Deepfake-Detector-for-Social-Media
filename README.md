@@ -24,18 +24,6 @@ A real-time AI-powered tool to detect fake news using NLP models and identify de
 
 ---
 
-Project Structure
-
-deep_fake/
-├── app.py                 # Flask app
-├── static/                # Static files (CSS, JS, images)
-├── templates/             # HTML templates
-├── models/                # Saved ML models
-├── utils/                 # Helper functions
-├── uploads/               # Uploaded media
-└── requirements.txt       # Python dependencies
-
-
 For queries contact smdshoyab07@gmail.com
 
 ## 🚀 How to Run
@@ -47,3 +35,14 @@ pip install -r requirements.txt
 python app.py
 
 
+
+Project Structure
+
+deep_fake/
+├── app.py                 # Flask app
+├── static/                # Static files (CSS, JS, images)
+├── templates/             # HTML templates
+├── models/                # Saved ML models
+├── utils/                 # Helper functions
+├── uploads/               # Uploaded media
+└── requirements.txt       # Python dependencies
