@@ -24,15 +24,6 @@ A real-time AI-powered tool to detect fake news using NLP models and identify de
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/shoyab778/Fake-News-Deepfake-Detector-for-Social-Media.git
-cd Fake-News-Deepfake-Detector-for-Social-Media
-pip install -r requirements.txt
-python app.py
-
-
 Project Structure
 
 deep_fake/
@@ -46,3 +37,13 @@ deep_fake/
 
 
 For queries contact smdshoyab07@gmail.com
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/shoyab778/Fake-News-Deepfake-Detector-for-Social-Media.git
+cd Fake-News-Deepfake-Detector-for-Social-Media
+pip install -r requirements.txt
+python app.py
+
+
